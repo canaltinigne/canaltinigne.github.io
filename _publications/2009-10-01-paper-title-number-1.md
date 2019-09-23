@@ -1,18 +1,10 @@
 ---
-title: "Can"
+title: "An Empirical Study on Arrival Rates of Limit Orders and Order Cancellation Rates in Borsa Istanbul"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Can can can can can can can.'
+excerpt: 'Order book dynamics play an important role in both execution time and price formation of orders in an exchange market. In this study, we aim to model the limit order arrival rates in the vicinity of the best bid and the best ask price levels. We use limit order book data for Garanti Bank, which is one of the most traded stocks in Borsa Istanbul. In order to model the daily, weekly, and monthly arrival of limit order quantities, three different discrete probability distributions are tested: Geometric, Beta-Binomial and Discrete Weibull. Additionally, two theoretical models, namely, Exponential and Power law are also tested. We aim to model the arrival rates in the first fifteen bid and ask price levels. We use L1 norms in order to calculate the goodness-of-fit statistics. Furthermore, we examine the structure of weekly and monthly mean cancellation rates in the first ten bid and ask price levels.'
 date: 2009-10-01
-venue: 'Journal can'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'arXiv:1909.08308'
+paperurl: 'https://arxiv.org/abs/1909.08308'
+authors: 'Can Yilmaz Altinigne, Harun Ozkan, Veli Can Kupeli and Zehra Cataltepe. An Empirical Study on Arrival Rates of Limit Orders and Order Cancellation Rates in Borsa Istanbul. Preprint: arXiv:1909.08308.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-This paper is about the number 1. The number 2 is left for future work.
-This paper is about the number 1. The number 2 is left for future work.
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
