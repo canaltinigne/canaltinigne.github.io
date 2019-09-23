@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "A Multi-Dimensional Machine Learning Approach to Predict Advanced Malware"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The growth of cyber-attacks that are carried out with malware have become more sophisticated on almost all networks. Furthermore, attacks with advanced malware have the greatest complexity which makes them very hard to detect. Advanced malware is able to obfuscate much of their traces through many mechanisms, such as metamorphic engines. Therefore, predictions and detections of such malware have become significant challenge for malware analyses mechanisms. In this paper, we propose a multi-dimensional machine learning approach to predict Stuxnet like malware from a dataset that consists of malware samples by using five distinguishing features of advanced malware. We define the features by analyzing advanced malware samples in the wild. Our approach uses regression models to predict advanced malware. We create a malware dataset from existing datasets that contain real samples for experimental purposes. Analyses results show that there are high correlations among some features of advanced malware. These provide better predictions scores, such as 
+ score for Stuxnet closeness feature. Experimental analyses show that our approach is able to predict Stuxnet like advanced malware if prediction features defined.'
+date: 2019-09-04
+venue: 'Computer Networks'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S138912861831082X'
+authors: 'Şerif Bahtiyar, Mehmet Barış Yaman, Can Yılmaz Altıniğne'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
