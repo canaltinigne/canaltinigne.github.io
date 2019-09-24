@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Istanbul Technical University, 2018
-* M.S. in Computer Science, École Polytechnique Fédérale de Lausanne, 2020 (expected)
+* _B.S. in Computer Engineering_, __Istanbul Technical University__, 2018
+* _M.S. in Computer Science_, __École Polytechnique Fédérale de Lausanne__, 2020 (expected)
 
 Work Experience
 ======
-* Summer 2019: Data Scientist Intern
-  * AXA Advanced Engineering Lab
-  * Duties included: Building and Road Segmentation from Disaster Images
+* __Summer 2019:__ Data Scientist Intern
+  * __AXA Advanced Engineering Lab__
+  * _Duties included: Building and Road Segmentation from Disaster Images_
 
-* Summer 2017: Software Engineer Intern
-  * CERN
-  * Duties included: Development of front-end part of DB on Demand Service.
+* __Summer 2017:__ Software Engineer Intern
+  * __CERN__
+  * _Duties included: Development of front-end part of DB on Demand Service._
   
-* Summer 2016: Software Engineer Intern
-  * ASELSAN
-  * Duties included: Development of an Augmented reality app on electro-optical camera view.
+* __Summer 2016:__ Software Engineer Intern
+  * __ASELSAN__
+  * _Duties included: Development of an Augmented reality app on electro-optical camera view._
 
 Research Experience
 ======
-* Fall 2019: Semester Project Student
-  * EPFL Computer Vision Lab
-  * Duties included: Self-supervised training of Proposal-based segmentation models
+* __Fall 2019:__ Semester Project Student
+  * __EPFL Computer Vision Lab__
+  * _Duties included: Self-supervised training of Proposal-based segmentation models_
 
-* Spring 2019: Semester Project Student
-  * Swiss Data Science Center
-  * Duties included: Human pose estimation and joint detection. Height and weight prediction from full-body images
+* __Spring 2019:__ Semester Project Student
+  * __Swiss Data Science Center__
+  * Duties included: _Human pose estimation and joint detection. Height and weight prediction from full-body images_
   
-* Fall-Spring 2018: Undergraduate Research Intern
-  * Istanbul Technical University, DAMGA Lab
-  * Duties included: Implementation of several compression algorithms and a DNA-aligner algorithm.
+* __Fall-Spring 2018:__ Undergraduate Research Intern
+  * __Istanbul Technical University, DAMGA Lab__
+  * Duties included: _Implementation of several compression algorithms and a DNA-aligner algorithm._
   
 Skills
 ======
