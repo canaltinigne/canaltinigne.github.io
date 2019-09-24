@@ -49,7 +49,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. __Can Yilmaz Altinigne__, Harun Ozkan, Veli Can Kupeli and Zehra Cataltepe. An Empirical Study on Arrival Rates of Limit Orders and Order Cancellation Rates in Borsa Istanbul. Preprint: arXiv:1909.08308.
+2. Serif Bahtiyar, Mehmet Baris Yaman, and __Can Yilmaz Altinigne__. A Multi-Dimensional Machine Learning Approach to Predict Advanced Malware. Computer Networks. 2019.
+3. Mehmet Baris Yaman, __Can Yilmaz Altinigne__ and Serif Bahtiyar. A Machine Learning Approach to Predict Advanced Malware. In Proceedings of the Second International Balkan Conference on Communications and Networking. 2018.
   
