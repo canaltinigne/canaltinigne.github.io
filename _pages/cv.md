@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download PDF version of my full CV [here](https://canaltinigne.github.io/files/Altinigne_CV.pdf).
+
 Education
 ======
 * _B.S. in Computer Engineering_, __Istanbul Technical University__, 2018
