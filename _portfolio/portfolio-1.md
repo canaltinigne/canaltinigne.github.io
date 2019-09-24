@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Green Growth Book Visualization"
+excerpt: "<img src='/images/500x300.png'><br/>This project is a spatial table of contents for the published book in the scope of Natural Capital Project of Stanford University. We visualized the data of environmental projects around the world. This project is selected for the presentation in 2019 Natural Capital Symposium at Stanford University."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
