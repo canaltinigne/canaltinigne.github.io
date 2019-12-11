@@ -30,7 +30,7 @@
       {% if post.link %}
         <a href="{{ post.paperurl }}">{{ title }}</a> <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.paperurl }}" rel="permalink" style="text-decoration:none; font-size:medium;">{{ title }}</a>
       {% endif %}
     </h2>
     
