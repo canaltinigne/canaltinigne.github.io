@@ -209,21 +209,10 @@
                     <div class="project-info">
                         <h3>Movinder - Movie recommendation system for a group of people.</h3>
                         <p>
-                            In order to implement our movie recommender system, we use the MovieLens dataset. 
-                            The data contains 100K ratings from 1K users on 1.7K movies and has been used traditionally for 
-                            recommender system research. Based on the data, we construct two graphs as follows: i) a user graph 
-                            that models the similarity of users based on their personal details (age, gender, occupation and location), 
-                            and ii) a movie graph that models the similarity of movies based on their characteristics (release date, 
-                            genre and title). Nodes have a vector signal that corresponds to the respective ratings. 
-                            
-                            In order to recommend the correct movies to the group of users, we need to define a similarity 
-                            metric between the two movies (graph where movie is a node) or the two groups of users 
-                            (graph where friends are a node). Therefore, since it is not known to be a familiar distance (e.g. Euclidean), 
-                            we would need to learn this distance metric which will represent the edges of the sparsely connected 
-                            similarity graph. To do that, we would need to create a dataset of ground truths containing similar 
-                            movies/users from which the neural network will learn the similarity metric. Ideally, with this we 
-                            would be able to learn not only the similarity metric, but also the embedding space where the movies/users 
-                            will be visually close to other similar movies/users.                        
+                            In order to implement a movie recommender system, we use the MovieLens dataset. 
+                            The data contains 100K ratings from 1K users on 1.7K movies and has been used traditionally 
+                            for recommender system research. I worked on the recommendation system with Non-Negative Matrix Factorization part
+                            and front-end design of the project using ​Flask​​. I used scikit-surprise​ library for matrix factorization.                        
                         </p>
                         <a href="https://movinder.herokuapp.com">View Project</a>
                     </div>
@@ -238,8 +227,7 @@
                     <div class="project-info">
                         <h3>Height and Weight Estimation From Unconstrained Images | IEEE ICASSP 2020</h3>
                         <p>
-                            We address the difficult problem of estimating the weight and height of individuals from pictures taken 
-                            in completely unconstrained settings. We present a deep learning scheme that relies on simultaneous 
+                            We present a deep learning scheme that relies on simultaneous 
                             prediction of human silhouettes and skeletal joints as strong regularizers that improve the prediction 
                             of attributes such as height and weight. Apart from imparting robustness to the prediction of attributes, 
                             our regularization also allows for better visual interpretability of the attribute prediction. 
@@ -260,18 +248,13 @@
                     <div class="project-info">
                         <h3>A Multi-Dimensional Machine Learning Approach to Predict Advanced Malware | Elsevier Computer Networks Journal</h3>
                         <p>
-                            The growth of cyber-attacks that are carried out with malware have become more sophisticated on almost 
-                            all networks. Furthermore, attacks with advanced malware have the greatest complexity which makes 
-                            them very hard to detect. Advanced malware is able to obfuscate much of their traces through many 
+                            Advanced malware is able to obfuscate much of their traces through many 
                             mechanisms, such as metamorphic engines. Therefore, predictions and detections of such malware have 
                             become significant challenge for malware analyses mechanisms. In this paper, we propose a multi-dimensional 
                             machine learning approach to predict Stuxnet like malware from a dataset that consists of malware samples 
                             by using five distinguishing features of advanced malware. We define the features by analyzing advanced 
-                            malware samples in the wild. Our approach uses regression models to predict advanced malware. We create 
-                            a malware dataset from existing datasets that contain real samples for experimental purposes. 
-                            Analyses results show that there are high correlations among some features of advanced malware. 
-                            These provide better predictions scores, such as score for Stuxnet closeness feature. 
-                            Experimental analyses show that our approach is able to predict Stuxnet like advanced malware if prediction features defined.
+                            malware samples in the wild. Our approach uses regression models to predict advanced malware. 
+                            Analyses results show that there are high correlations among some features of advanced malware.
                         </p>
                         <a href="https://www.sciencedirect.com/science/article/pii/S138912861831082X">View Project</a>
                     </div>
